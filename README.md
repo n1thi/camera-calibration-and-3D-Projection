@@ -1,4 +1,4 @@
-# Camera Geometry and Calibration from Scratch
+# Camera Calibration and 3D Projection
 
 ## Overview
 This project implements fundamental camera geometry algorithms from scratch, focusing on both 3D rotation modeling and camera calibration. The work emphasizes mathematical formulation and controlled use of OpenCV to recover camera parameters from geometric constraints.
